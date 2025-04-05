@@ -1,7 +1,7 @@
 # ESP32-Steamakers-Box
 Capsa per placa ESP32 Steamakers
 
-<img src="Imatges/ESP32_Borad.png" width="300" />   
+<img src="Imatges/ESP32_Board.png" width="300" />   
 
 Placa ESP32 Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1567-placa-esp32-steamakers-no-incluye-cable-usb.html)  
 
