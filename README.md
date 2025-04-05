@@ -1,7 +1,7 @@
 # ESP32-Steamakers-Box
 Capsa per placa ESP32 Steamakers
 
-<img src="Imatges/Capsa.jpg" width="300" />   
+<img src="Imatges/ESP32_Borad.png" width="300" />   
 
 Placa ESP32 Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1567-placa-esp32-steamakers-no-incluye-cable-usb.html)  
 
@@ -15,9 +15,9 @@ The supports helps to prevents short-circuits and take care of the components.
   
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
-Base ESP32 Steamakers |![](Imatges/BaseESPSteamakers.png) | [Base](STL/BaseESPSteamaker.stl)
-Base ESP32 Steamakers amb orelles |![](Imatges/BaseESPSteamakersOrelles.png) | [Base amb orelles](STL/BaseESPSteamakerOrelles.stl)
-Base ESP32 Steamakers |![](Imatges/TapaESPSteamakers.png) | [Tapa](STL/TapaESPSteamaker.stl)
+Base ESP32 Steamakers |![](Imatges/BaseESPSteamakers.png) | [Base](STL/BaseESPSteamakers.stl)
+Base ESP32 Steamakers amb orelles |![](Imatges/BaseESPSteamakersOrelles.png) | [Base amb orelles](STL/BaseESPSteamakersOrelles.stl)
+Base ESP32 Steamakers |![](Imatges/TapaESPSteamakers.png) | [Tapa](STL/TapaESPSteamakers.stl)
 
 
 ## Llicència
