@@ -5,10 +5,6 @@ Capsa per placa ESP32 Steamakers
 
 Placa ESP32 Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1567-placa-esp32-steamakers-no-incluye-cable-usb.html)  
 
-Tutorial d'en [Federico Coca](https://fgcoca.github.io/ESP32-micro-STEAMakers/). del Club Robótico de Granada 
-
-https://docs.innovadidactic.com/_media/es/manuals/esp32/manual_actividades_esp32_steamakers.pdf
-
 Suports d'en [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
 La [documentació](https://docs.innovadidactic.com/_media/es/manuals/esp32/manual_actividades_esp32_steamakers.pdf) en PDF   
