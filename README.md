@@ -7,7 +7,7 @@ Placa ESP32 Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadi
 
 Suports d'en [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La [documentació](https://docs.innovadidactic.com/_media/es/manuals/esp32/manual_actividades_esp32_steamakers.pdf) en PDF   
+La documentació de la ESP32 Steamaker [PDF](https://docs.innovadidactic.com/_media/es/manuals/esp32/manual_actividades_esp32_steamakers.pdf) en PDF   
 
 ## Arxius per imprimir Suports per Micro:Steamakers
 
