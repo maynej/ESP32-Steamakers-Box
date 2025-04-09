@@ -17,8 +17,9 @@ Descripció         | Imatge          | Arxiu STL
 ------------- | ------------- | ------------- 
 Base ESP32 Steamakers |![](Imatges/BaseESPSteamakers.png) | [Base](STL/BaseESPSteamakers.stl)
 Base ESP32 Steamakers amb orelles |![](Imatges/BaseESPSteamakersOrelles.png) | [Base amb orelles](STL/BaseESPSteamakersOrelles.stl)
-Base ESP32 Steamakers |![](Imatges/TapaESPSteamakers.png) | [Tapa](STL/TapaESPSteamakers.stl)
-
+Tapa ESP32 Steamakers |![](Imatges/TapaESPSteamakers.png) | [Tapa](STL/TapaESPSteamakers.stl)
+Tapa Reset ESP32 Steamakers |![](Imatges/TapaESPSteamakersReset.png) | [Tapa](STL/TapaESPSteamakersReset.stl)
+Pin Reset |![](Imatges/Pin_Reset.png) | [Tapa](STL/Pin_Reset.stl)
 
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
