@@ -3,7 +3,7 @@ Capsa per placa ESP32 Steamakers
 
 <img src="Imatges/ESP32_Board.png" width="300" />   
 
-Placa ESP32 Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1567-placa-esp32-steamakers-no-incluye-cable-usb.html)  <img src="Imatges/LogoInnova.png" width="50" />
+Placa ESP32 Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1567-placa-esp32-steamakers-no-incluye-cable-usb.html)  <img src="Imatges/LogoInnova.jpg" width="50" />
 
 Suports d'en [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
