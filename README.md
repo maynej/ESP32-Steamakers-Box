@@ -3,11 +3,11 @@ Capsa per placa ESP32 Steamakers
 
 <img src="Imatges/ESP32_Board.png" width="300" />   
 
-Placa ESP32 Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1567-placa-esp32-steamakers-no-incluye-cable-usb.html)  
+Placa ESP32 Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1567-placa-esp32-steamakers-no-incluye-cable-usb.html)    <img src="Imatges/LogoInnova.jpg" width="100" />
 
-Suports d'en [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
+Suports d'en [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com  <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La [documentació](https://docs.innovadidactic.com/_media/es/manuals/esp32/manual_actividades_esp32_steamakers.pdf) en PDF   
+La documentació de la ESP32 Steamaker [PDF](https://docs.innovadidactic.com/_media/es/manuals/esp32/manual_actividades_esp32_steamakers.pdf)    
 
 ## Arxius per imprimir Suports per Micro:Steamakers
 
@@ -19,10 +19,12 @@ Base ESP32 Steamakers |![](Imatges/BaseESPSteamakers.png) | [Base](STL/BaseESPSt
 Base ESP32 Steamakers amb orelles |![](Imatges/BaseESPSteamakersOrelles.png) | [Base amb orelles](STL/BaseESPSteamakersOrelles.stl)
 Tapa ESP32 Steamakers |![](Imatges/TapaESPSteamakers.png) | [Tapa](STL/TapaESPSteamakers.stl)
 Tapa Reset ESP32 Steamakers |![](Imatges/TapaESPSteamakersReset.png) | [Tapa](STL/TapaESPSteamakersReset.stl)
-Pin Reset |![](Imatges/Pin_Reset.png) | [Tapa](STL/Pin_Reset.stl)
+Pin Reset |![](Imatges/Pin_Reset.png) | [Pin Reset](STL/Pin_Reset.stl)
 
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
 ## QR
-<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FMicro-Steamakers-Stand&s=6&e=m"/>
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FESP32-Steamakers-Box%2Ftree%2Fmain&s=6&e=m"/>
+
+
